@@ -1,0 +1,4 @@
+-IC:\Users\HP\Documents\C++\Real_Complicated_Stuff\Array_Challenge_2
+-std=c++14
+-target
+
